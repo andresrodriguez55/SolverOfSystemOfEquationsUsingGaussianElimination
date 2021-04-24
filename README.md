@@ -17,8 +17,8 @@ Program written in Python to be able to solve systems of equations of one or sev
 ## Screenshots
 
 
-| ![](images/1.png) | ![](images/2.png) | 
+| ![](images/a.png) | ![](images/b.png) | 
 |:---:|:---:|
 
-![](images/3.png) | ![](images/4.png) |
+![](images/c.png) | ![](images/d.png) |
 |:---:|:---:|
