@@ -12,8 +12,6 @@ Program written in Python to be able to solve systems of equations of one or sev
 
 * Equations must be separated by commas (,).
 
-* Variables that appear in an equation can only appear in it once (also with the constants).
-
 
 
 ## Screenshots
