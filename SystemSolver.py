@@ -86,7 +86,7 @@ def storingCoefficient(equation, equation_index, variables_dictionary, polarity_
             variables_dictionary["constant"] = variables_dictionary["constant"][:equation_index] + \
                                                [variables_dictionary["constant"][equation_index]+\
                                                -1*(polarity_of_the_equation)*eval(constant)]+\
-                                               variables_dictionary["constant"][equation_index:]
+                                               variables_dictionary["constant"][-1:equation_index:-1]
             constant = character
 
         elif character == " ":  # Insignificant character
